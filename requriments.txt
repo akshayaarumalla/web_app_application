@@ -1,0 +1,6 @@
+# web_app_application
+pandas
+numpy
+plotly
+scikit_learn
+streamlit
